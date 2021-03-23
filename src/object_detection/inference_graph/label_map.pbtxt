@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'helipad_clear'
+}
+
+item {
+    id: 2
+    name: 'helipad_not_clear'
+}
